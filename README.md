@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Yi-Shan's github stats](https://github-readme-stats.vercel.app/api?username=YiShanLee&show_icons=true)
+![Yi-Shan's github stats](https://github-readme-stats.vercel.app/api?username=mandy1223ks&show_icons=true)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mandy1223ks.mandy1223ks)
 
 <!---
